@@ -59,7 +59,7 @@
                         <div class="shade"></div>
                         <span class="badge new">New</span>
                         <div class="contents">
-                            <h4>Grand Theft Auto V Reloaded GTA 5 Free Download PC Game setup in single direct link for Windows.</h4>
+                            <h4>Grand Theft Auto VI Reloaded GTA 5 Free Download PC Game setup in single direct link for Windows.</h4>
                             <p> GTA 5 is an amazing action and adventure game.</p>
                             <a href="#" class="comments">3 Comments</a>
                         </div>
